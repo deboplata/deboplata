@@ -1,1 +1,3 @@
 ![Devony (1920 x 800 px) (1400 x 800 px)](https://github.com/user-attachments/assets/6b661052-6d0c-4e2e-8d05-a620ab0299d3)
+Hello, my name is Devony Ramirez. I am a Computer Engineering student in my third semester at Universidad Católica Andrés Bello. I am currently the Coordinator of the Programming Club and a Discrete Mathematics tutor for second-semester students. My goal is to continue expanding my knowledge in areas such as algorithms, data structures, artificial intelligence, and software development, and to apply everything I have learned in projects that can have a real-world impact. I am always looking for opportunities to learn, collaborate, and grow in the field of computer science.
+
