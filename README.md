@@ -10,7 +10,7 @@
 </div> 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-# About Me ✨
+## About Me ✨
 Hi there! I'm **Devony Ramirez**, a passionate and curious **Computer Engineering student** currently in my 5th semester at the **Universidad Católica Andrés Bello (UCAB)** in Venezuela.    
 
 Currently, I’m learning and improving my skills in:  
@@ -23,8 +23,8 @@ I’m also exploring other areas such as **Java**, **JavaScript**, and **Node.js
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 ---
-## Fun Facts & Hobbies 🎀:  
-<img align="right" alt="gato gif" width="400" src="![gato](https://github.com/user-attachments/assets/e4ef6f15-4fb4-4921-9645-40cb1b28e76e)">
+## Fun Facts & Hobbies 🎀:
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkZ3c0MTVkNHJwOTljdTNsMHBwZmgxdXpmbHc5azEzYW9nZG4wcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif">
 
 - 🍝 **Foodie:** Lasagna (pasticho) is my ultimate comfort food.  
 - 🎶 **Music Obsessed:** I love coding while listening to lo-fi beats.  
@@ -33,7 +33,7 @@ I’m also exploring other areas such as **Java**, **JavaScript**, and **Node.js
 - ✈️ **Dreamer:** I dream of working in tech companies worldwide.  
 
 ---
-# Languages and Tools 🛠️
+## Languages and Tools 🛠️
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VSCode">  
@@ -45,7 +45,7 @@ I’m also exploring other areas such as **Java**, **JavaScript**, and **Node.js
 
 ---
 
-# Connect with Me 🌐
+## Connect with Me 🌐
 <p align="left">
 <a href="https://ve.linkedin.com/in/devony-alexandra-ramírez-figueroa-b9153b2a4?original_referer=https%3A%2F%2Fwww.google.com%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devony alexandra ramirez figueroa" height="30" width="40" /></a>
 <a href="https://instagram.com/ny_devo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ny_devo" height="30" width="40" /></a>
