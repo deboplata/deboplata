@@ -35,12 +35,12 @@ I’m also exploring other areas such as **Java**, **JavaScript**, and **Node.js
 ---
 ## Languages and Tools 🛠️
 <p align="left">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VSCode">  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" title="Git">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30" title="VSCode">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="30" title="Figma">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="30" title="NodeJs"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="30" title="HTML"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="30" title="CSS">
 </p>
 
 ---
