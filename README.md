@@ -18,20 +18,9 @@ Currently, I’m learning and improving my skills in:
 - **Software Engineering principles**  
 - **UX/UI Design** for creating user-friendly experiences  
 
-I’m also exploring other areas such as **Java**, **JavaScript**, and **Node.js**, while actively building projects that challenge me to grow as a developer.  
+I’m also exploring other areas such as **JavaScript**, **Angular** and **Node.js**, while actively building projects that challenge me to grow as a developer.  
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
----
-## Fun Facts & Hobbies 🎀:
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFkZ3c0MTVkNHJwOTljdTNsMHBwZmgxdXpmbHc5azEzYW9nZG4wcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif">
-
-- 🍝 **Foodie:** Lasagna (pasticho) is my ultimate comfort food.  
-- 🎶 **Music Obsessed:** I love coding while listening to lo-fi beats.  
-- 🎨 **Creative Mind:** Passionate about **UX/UI Design** and aesthetics.  
-- ☕ **Coffee Addict:** A day without coffee? Impossible.  
-- ✈️ **Dreamer:** I dream of working in tech companies worldwide.  
-
 ---
 ## Languages and Tools 🛠️
 <p align="left">
