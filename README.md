@@ -6,7 +6,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevonyRamirez&show_icons=true&count_private=true&hide_border=true&title_color=c27ba0&icon_color=c27ba0&text_color=FFFFFF&bg_color=0d1117" alt="Devony Dev github stats" />
   
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevonyRamireza&layout=compact&hide_border=true&title_color=c27ba0&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevonyRamirez&layout=compact&hide_border=true&title_color=c27ba0&text_color=FFFFFF&bg_color=0d1117" />
 </div> 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------->
 
