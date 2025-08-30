@@ -1,6 +1,6 @@
 # 
 ![GitHub followers](https://img.shields.io/github/followers/DevonyRamirez?labelColor=c27ba0&color=ffffff)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ny_devo/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c27ba0&logo=instagram&logoColor=white)](https://www.instagram.com/ny_devo/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devony-ramirez-b9153b2a4)
 
 
